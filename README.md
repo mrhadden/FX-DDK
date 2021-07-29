@@ -8,7 +8,9 @@ This is the offical DDK for FX/OS.  It is still under heavy development for stab
 ## Driver Specifications
 
 **Address Space** 	0x040000 - 0x04FFFF
+
 **Max Driver Size** 0x5F0 (1520 bytes) 
+
 **Max Drivers** 	32
 
 
