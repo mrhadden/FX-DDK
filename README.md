@@ -89,3 +89,9 @@ static UINT f_driver_write(UINT size,LPVOID buffer)
 ```
 static BOOL f_driver_unload(void)
 ```
+
+
+## Example of a runtime dynamically loaded Device Driver
+```
+hDriver = DosLoadDriver("HD:\\system\\drivers\\DRIVER_S13.DRV");
+```
