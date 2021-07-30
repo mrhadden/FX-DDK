@@ -23,8 +23,8 @@ This is the offical DDK for FX/OS.  It is still under heavy development for stab
 | PS/2 Mouse | 0 |7  | DRIVER_FMXMOUSE | 0x0411D0 | 1.0.0 |
 | COM1 |  2 |  4 | DRIVER_FMXCOM1 | 0x040000 | 1.0.0 |
 | COM2 | 2  | 3 | DRIVER_FMXCOM2 (FMX Only) | 0x0411D0 | 1.0.0 |
-| Console | N/A | N/A  | DRIVER_FMXConsole | 0x040000 | 1.0.0 |
-| IDE | 3 | 0  | DRIVER_FMXIDE | 0x040000 | 1.0.0 |
+| Console | N/A | N/A  | DRIVER_FMXConsole | 0x042990 | 1.0.0 |
+| IDE | 3 | 0  | DRIVER_FMXIDE | 0x0417C0 | 1.0.0 |
 | SDCard | 2 | 7 | DRIVER_FMXSDCard | 0x041DB0 | 1.0.0 |
 | RealTime Clock | 0 | 5 | DRIVER_RTC | 0x047CB0 | 1.0.0 |
 | Start Of Line (SOL) | 0 | 0  | DRIVER_SOL | 0x0476C0 | 1.0.0 |
